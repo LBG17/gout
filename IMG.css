@@ -14,20 +14,56 @@
 
 @-webkit-keyframes mymove{
     50% { left:250px;}
-    from {border-color:yellow;}
-    to{border-color:green;}
-    
+    5% {border-color:rgb(255, 217, 50);}
+    10% {border-color:rgb(255, 190, 50);}
+    15% {border-color:rgb(255, 132, 50);}
+    20% {border-color:rgb(255, 50, 50);}
+    25% {border-color:rgb(255, 50, 118);}
+    30% {border-color:rgb(255, 50, 193);}
+    35% {border-color:rgb(255, 50, 245);}
+    40% {border-color:rgb(197, 50, 255);}
+    45% {border-color:rgb(146, 50, 255);}
+    50% {border-color:rgb(105, 50, 255);}
+    55% {border-color:rgb(50, 64, 255);}
+    60% {border-color:rgb(50, 98, 255);}
+    65% {border-color:rgb(50, 132, 255);}
+    70% {border-color:rgb(50, 163, 255);}
+    75% {border-color:rgb(50, 207, 255);}
+    80% {border-color:rgb(50, 255, 211);}
+    85% {border-color:rgb(50, 255, 111);}
+    90% {border-color:rgb(67, 255, 50);}
+    95% {border-color:rgb(115, 255, 50);}
+    100% {border-color:rgb(200, 255, 50);}
 }
+    
 
 @keyframes mymove{
      50% { left:600px;}
-     from {border-color:yellow;}
-     to{border-color:green;}
+     5% {border-color:rgb(255, 217, 50);}
+     10% {border-color:rgb(255, 190, 50);}
+     15% {border-color:rgb(255, 132, 50);}
+     20% {border-color:rgb(255, 50, 50);}
+     25% {border-color:rgb(255, 50, 118);}
+     30% {border-color:rgb(255, 50, 193);}
+     35% {border-color:rgb(255, 50, 245);}
+     40% {border-color:rgb(197, 50, 255);}
+     45% {border-color:rgb(146, 50, 255);}
+     50% {border-color:rgb(105, 50, 255);}
+     55% {border-color:rgb(50, 64, 255);}
+     60% {border-color:rgb(50, 98, 255);}
+     65% {border-color:rgb(50, 132, 255);}
+     70% {border-color:rgb(50, 163, 255);}
+     75% {border-color:rgb(50, 207, 255);}
+     80% {border-color:rgb(50, 255, 211);}
+     85% {border-color:rgb(50, 255, 111);}
+     90% {border-color:rgb(67, 255, 50);}
+     95% {border-color:rgb(115, 255, 50);}
+     100% {border-color:rgb(200, 255, 50);}
  }
 
 div{
     background-color: darkblue;
-    height: 800px;
+    height: 500px;
     width: 800px;
 }
 
